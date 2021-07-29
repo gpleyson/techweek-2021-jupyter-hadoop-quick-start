@@ -11,20 +11,22 @@ Hopefully, you have something to play with after (or during this talk).
 
 # Getting started
 1. [**DS Lab**](https://lab.ds.trv.cloud/hub/home)
-    *Pros*:
-    - no setup required, keytab file is the only requirement, interactive spark
-    *Cons*:
-    - remote setup, need to ferry files, server sometimes goes down, harder to customize
+
+    *Pros*: no setup required, keytab file is the only requirement, interactive spark
+
+    *Cons*: remote setup, need to ferry files, server sometimes goes down, harder to customize
+
 2. [**MyJupyter Docker image**](https://github.com/trivago/myjupyter)
-    *Pros*:
-    - super easy to setup, keytab file is the only requirement, interactive spark
-    *Cons*:
-    - needs docker
+
+    *Pros*: super easy to setup, keytab file is the only requirement, interactive spark
+
+    *Cons*: needs docker, not as easily customizable
+
 3. **Custom environment (e.g. with** [**miniconda**](https://docs.conda.io/en/latest/miniconda.html)**)**
-    *Pros*:
-    - highly customizable, sometime necessary if using esoteric libraries
-    *Cons*:
-    - DIY option
+
+    *Pros*: highly customizable, sometime necessary if using esoteric libraries
+
+    *Cons*: DIY option
 
 ![Special thanks to DAPA-Tools aka MPOPS aka Andrés’ Team.](https://paper-attachments.dropbox.com/s_A1BF12B3C78210718A24557EF851D90488A76523C0B1BBAECFC27AF048EAD789_1627393912679_image+1.png)
 
